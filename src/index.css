@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-primaryColor text-primaryText font-figtree
+  }
+
+  .cont-shadow {
+    box-shadow: 5px 5px 0 hsl(0 0% 7%);
+  }
+}
