@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/BaileyKH/blog-preview-react](https://github.com/BaileyKH/blog-preview-react)
-- Live Site URL: [https://blog-preview-sandy-nu.vercel.app/](https://blog-preview-sandy-nu.vercel.app/)
+- Live Site URL: [https://blog-preview-react.vercel.app/](https://blog-preview-react.vercel.app/)
 
 ## My process
 
